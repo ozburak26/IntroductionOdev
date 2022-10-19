@@ -56,7 +56,7 @@
                 case "ekim":
                     Console.WriteLine("Mevsim Sonbahar");
                     Console.WriteLine("10.ay");
-                    break;
+                    break;#if
                 case "kasım":
                     Console.WriteLine("Mevsim Sonbahar");
                     Console.WriteLine("11.ay");
