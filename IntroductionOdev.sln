@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev2", "Odev2\Odev2.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aaaa", "aaaa\aaaa.csproj", "{A33642E6-4DEC-44BD-9A8F-8E5BB694A6F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev3", "Odev3\Odev3.csproj", "{FB097B4B-4B06-4A00-B4E4-9DF7492B6CEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev3", "Odev3\Odev3.csproj", "{FB097B4B-4B06-4A00-B4E4-9DF7492B6CEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev 4", "Odev 4\Odev 4.csproj", "{AD823594-E8D6-440A-9CF5-23DD94FAB4EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{FB097B4B-4B06-4A00-B4E4-9DF7492B6CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB097B4B-4B06-4A00-B4E4-9DF7492B6CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB097B4B-4B06-4A00-B4E4-9DF7492B6CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD823594-E8D6-440A-9CF5-23DD94FAB4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD823594-E8D6-440A-9CF5-23DD94FAB4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD823594-E8D6-440A-9CF5-23DD94FAB4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD823594-E8D6-440A-9CF5-23DD94FAB4EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
